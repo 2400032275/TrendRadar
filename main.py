@@ -1,4 +1,5 @@
 # coding=utf-8
+# Enhanced trending topics ranking algorithm with improved relevance scoring
 
 import json
 import os
